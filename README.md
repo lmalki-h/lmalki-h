@@ -1,6 +1,6 @@
 # Hi there 🌞
 
-- 🌱 I'm a code newbie and my code is not the best 
+- 🌱 I'm a code newbie
 
 - 📚 I'm currently reading Clean Code to build good code habits
 

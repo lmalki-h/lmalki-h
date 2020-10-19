@@ -1,14 +1,6 @@
 # Hi there 🌞
 
-🌱  I'm a code newbie
 
-📚  I'm currently reading Clean Code to build good code habits
-
-🦄  Usually I program in C and I love it
-
-🥃   Although today, I'm working on a project in assembly x86-64 which is very interesting
-
-🧜🏼‍♀️  My pronouns are she/they
 
 <!--
 **lmalki-h/lmalki-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

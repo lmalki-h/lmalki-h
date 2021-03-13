@@ -6,6 +6,6 @@
 
 🌱 I’m currently working on **push_swap**, a sorting programme.
 
-🔭 Next project is: **philosophers**, a project about mutlithreading.
+🔭 Next project is: **philosophers**, a project about multithreading.
 
 

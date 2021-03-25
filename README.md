@@ -4,8 +4,8 @@
 
 🦑 So far, I've been learning C programming and a bit of C++
 
-🌱 I’m currently working on **push_swap**, a sorting programme.
+🌱 I’m currently working on [**philosophers**](philosophers/), a project about [the Dining Philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem).
 
-🔭 Next project is: **philosophers**, a project about multithreading.
+🔭 Next project is: **ft_containers**, to re-implement C++ containers
 
 

@@ -4,9 +4,9 @@
 
 🦑 So far, I've been learning C and C++ programming.
 
-🌱 I’m currently working on [**philosophers**](../../../philosophers/), a project about [the Dining Philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem).
+🌱 I’m currently working on [**ft_containers**](../../../ft_containers/), a project about reimplementing C++ containers using Test Driven Development.
 
-🔭 Next project is: **ft_containers**, to re-implement C++ containers
+🔭 Next project is: **webserver**, building a HTTP server in C++
 
 
 
